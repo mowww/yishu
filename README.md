@@ -13,3 +13,5 @@ IOS应用端未上线无法展示，只能展示关于社交的WEB APP的DEMO。
 [模型](./application/models)-------------数据处理  
 
 [封装模型方法](./application/core/MY_Model.php)--------token解析，控制层到模型的数据处理，调试打印数据、打印日志，多维数组排序，图片路径组装等  
+
+[文档](document)--------需求文档、接口文档
